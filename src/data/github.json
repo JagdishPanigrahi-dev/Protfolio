@@ -1,0 +1,83 @@
+{
+  "fetched_at": "2026-10-26T14:53:43.213Z",
+  "source": "https://api.github.com/users/jagdishpanigrahi-dev/repos",
+  "user": {
+    "login": "JagdishPanigrahi-dev",
+    "url": "https://github.com/JagdishPanigrahi-dev",
+    "public_repos": 5,
+    "followers": 1,
+    "created_at": "2026-07-27T06:20:24Z"
+  },
+  "repos": [
+    {
+      "name": "teachers-day",
+      "url": "https://github.com/JagdishPanigrahi-dev/teachers-day",
+      "description": "",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "homepage": "",
+      "size": 12,
+      "topics": [],
+      "pushed_at": "2026-09-05T03:05:29Z",
+      "created_at": "2026-09-05T02:44:59Z"
+    },
+    {
+      "name": "JagdishPanigrahi-dev",
+      "url": "https://github.com/JagdishPanigrahi-dev/JagdishPanigrahi-dev",
+      "description": "",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "homepage": "",
+      "size": 27,
+      "topics": [],
+      "pushed_at": "2026-07-27T10:04:52Z",
+      "created_at": "2026-07-27T08:57:01Z"
+    },
+    {
+      "name": "animated-portfolio",
+      "url": "https://github.com/JagdishPanigrahi-dev/animated-portfolio",
+      "description": "",
+      "language": null,
+      "stars": 1,
+      "forks": 0,
+      "fork": false,
+      "homepage": "",
+      "size": 0,
+      "topics": [],
+      "pushed_at": "2026-07-27T08:34:06Z",
+      "created_at": "2026-07-27T08:34:05Z"
+    },
+    {
+      "name": "strix",
+      "url": "https://github.com/JagdishPanigrahi-dev/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "fork": true,
+      "homepage": "https://strix.ai",
+      "size": 13888,
+      "topics": [],
+      "pushed_at": "2026-09-12T16:37:42Z",
+      "created_at": "2026-09-13T06:15:36Z"
+    },
+    {
+      "name": "Macbook-Landing-Page",
+      "url": "https://github.com/JagdishPanigrahi-dev/Macbook-Landing-Page",
+      "description": " Apple-style 3D Website — Built with React, Three.js, GSAP, and TailwindCSS. Experience immersive 3D product showcases with realistic lighting, scroll-triggered animations, masking effects, and buttery-smooth transitions.",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "fork": true,
+      "homepage": "https://macbook-landing-page-ten.vercel.app",
+      "size": 31278,
+      "topics": [],
+      "pushed_at": "2025-10-20T12:48:06Z",
+      "created_at": "2026-09-10T07:27:53Z"
+    }
+  ]
+}

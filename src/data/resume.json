@@ -1,0 +1,242 @@
+{
+  "name": "Jagdish Panigrahi",
+  "headline": "Full-Stack & Cloud Developer · AI Builder · Automation",
+  "tagline": "Age 15 · Self-taught developer",
+  "hackathon": "",
+  "email": "jagdishpanigrahi01@gmail.com",
+  "location": "Bhubaneswar, Odisha, India",
+  "github": "github.com/jagdishpanigrahi-dev",
+  "linkedin": "linkedin.com/in/jagdish-panigrahi-299b95413",
+  "youtube": "YouTube: @techyGuy.Official",
+  "summary": "Self-taught developer building complete platforms from idea to deployment. Built and maintain **Rether**, a Vercel-style serverless hosting platform with **300+ API routes**; rapidly rebuild production-grade products, automate workflows with payments, bots and AI, and am designing a custom programming language.",
+  "projects": [
+    {
+      "title": "Rether",
+      "subtitle": "Vercel-alternative cloud hosting platform (formerly QORB) · Builder & maintainer",
+      "date": "2026 – Present",
+      "stack": "Node.js · Express · Vercel Serverless · Turso/libSQL · REST API (300+ routes)",
+      "bullets": [
+        "A **mini cloud with a serverless backend** that deploys users' sites to their own Vercel accounts through a **pluggable deploy engine**: preview deploys and promote, deploy hooks, per-environment env vars, runtime logs and an activity log.",
+        "**Custom-domain verification** (TXT + routing), a **public status page**, and notifications over Telegram, email, Discord, Slack and webhooks.",
+        "**Plan billing with UPI payments** and auto-expiry/auto-restart of projects; **₹1 UPI account verification** with anti-abuse checks.",
+        "**Multi-chain crypto checkout** (USDT, USDC, BTC, ETH, SOL, TRX across 13 coin + network combos) in progress.",
+        "**Admin panel** with monitoring, automation rules and a cron kill-switch; an **AI website/app builder** inside the platform; an **Android app**.",
+        "A **34-page docs site** and a news/blog with an admin editor.",
+        "Own **MongoDB-style query layer on libSQL** and **AES-256-GCM** field encryption with key rotation."
+      ],
+      "icon": "rether",
+      "summary": "A **mini cloud with a serverless backend** that deploys users' sites to their own Vercel accounts through a **pluggable deploy engine**.",
+      "features": [
+        {
+          "icon": "rocket",
+          "title": "Deploy engine",
+          "text": "Preview deploys and promote, deploy hooks, per-environment env vars, runtime logs and an activity log."
+        },
+        {
+          "icon": "globe",
+          "title": "Domains & status",
+          "text": "**Custom-domain verification** (TXT + routing) and a **public status page**."
+        },
+        {
+          "icon": "bell",
+          "title": "Notifications",
+          "text": "Alerts over Telegram, email, Discord, Slack and webhooks."
+        },
+        {
+          "icon": "wallet",
+          "title": "UPI plan billing",
+          "text": "**Plan billing with UPI payments** and auto-expiry/auto-restart of projects."
+        },
+        {
+          "icon": "usercheck",
+          "title": "Account verification",
+          "text": "**₹1 UPI account verification** with anti-abuse checks."
+        },
+        {
+          "icon": "coins",
+          "title": "Crypto checkout",
+          "text": "**Multi-chain crypto checkout** (in progress): USDT, USDC, BTC, ETH, SOL, TRX across 13 coin + network combos."
+        },
+        {
+          "icon": "gauge",
+          "title": "Admin panel",
+          "text": "Monitoring, automation rules and a cron kill-switch."
+        },
+        {
+          "icon": "sparkles",
+          "title": "AI builder",
+          "text": "An **AI website/app builder** inside the platform."
+        },
+        {
+          "icon": "smartphone",
+          "title": "Android app",
+          "text": "An **Android app** for the platform."
+        },
+        {
+          "icon": "book",
+          "title": "Docs & news",
+          "text": "A **34-page docs site** and a news/blog with an admin editor."
+        },
+        {
+          "icon": "database",
+          "title": "Own data layer",
+          "text": "A **MongoDB-style query layer on libSQL**."
+        },
+        {
+          "icon": "lock",
+          "title": "Encryption",
+          "text": "**AES-256-GCM** field encryption with key rotation."
+        }
+      ]
+    },
+    {
+      "title": "Aidora",
+      "subtitle": "Telegram group-management bot · Developer",
+      "date": "2026 – Present",
+      "icon": "bot",
+      "stack": "Python (python-telegram-bot v20+) · Webhooks on Vercel · Turso/libSQL",
+      "bullets": [
+        "**Aidora**, a full Telegram group-management bot: anti-raid and admin-abuse protection, moderation, points and leaderboards, **24-language** auto-translate, a built-in **AI assistant**, clone bots and broadcasts."
+      ],
+      "tags": [
+        "Anti-raid",
+        "Admin-abuse protection",
+        "Moderation",
+        "Points & leaderboards",
+        "24-language auto-translate",
+        "AI assistant",
+        "Clone bots",
+        "Broadcasts"
+      ],
+      "lead": "A full Telegram group-management bot with a built-in AI assistant."
+    },
+    {
+      "title": "Telegram Bots & Automation",
+      "subtitle": "Bot developer",
+      "date": "",
+      "icon": "send",
+      "stack": "Koyeb · Render · Vercel · bots.business · TeleBot Creator",
+      "bullets": [
+        "Built and hosted Telegram bots on **Koyeb, Render and Vercel**; mastered **bots.business** and **TeleBot Creator**.",
+        "Built automation tools including an **OTP sender** and an **auto payment verifier**, plus a **UPI payment gateway** that Rether now uses.",
+        "Admin of multiple Telegram tech channels with **80k+ followers**."
+      ]
+    },
+    {
+      "title": "techyGuy",
+      "subtitle": "Tech YouTube channel · Creator",
+      "date": "2026 – Present",
+      "stack": "",
+      "bullets": [
+        "Deep-dive videos on trending **GitHub repositories** and **defensive security**, one repo or topic per episode."
+      ],
+      "icon": "play"
+    },
+    {
+      "title": "Custom Programming Language",
+      "subtitle": "Personal project · Designer",
+      "date": "In progress",
+      "icon": "code",
+      "stack": "",
+      "bullets": [
+        "Designing a custom programming language."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "label": "Languages",
+      "items": "JavaScript, Node.js, Python, PHP, SQL, HTML/CSS",
+      "icon": "code"
+    },
+    {
+      "label": "Backend & Data",
+      "items": "Express, REST APIs, React (MERN), MongoDB, MySQL, SQLite, Turso/libSQL, Redis",
+      "icon": "database"
+    },
+    {
+      "label": "Cloud & DevOps",
+      "items": "Vercel serverless, Cloudflare Workers, Netlify, Docker, Koyeb, Render, Heroku, Oracle Cloud, Git, GitHub Actions, Linux/Termux",
+      "icon": "cloud"
+    },
+    {
+      "label": "AI & Integrations",
+      "items": "Gemini, prompt engineering, AI website & app builders, Telegram Bot API, UPI gateway, multi-chain crypto payments, webhooks, Android apps",
+      "icon": "sparkles"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Gemini Certified Student (K-12) · score 89/100",
+      "issuer": "Google for Education",
+      "date": "Jul 2026"
+    },
+    {
+      "title": "Google AI Educator Series",
+      "issuer": "Intro to Gemini (Jul 2026) · Integrate Your Industry Knowledge into Your Course · Higher Ed Pedagogical Design",
+      "date": ""
+    },
+    {
+      "title": "CampusCrew 100K Milestone Honor Certificate",
+      "issuer": "CampusCrew",
+      "date": ""
+    }
+  ],
+  "education": [
+    {
+      "school": "DR Nayapalli College",
+      "title": "Higher Secondary (+2), 1st year · Science (PCM + IT)",
+      "detail": "Bhubaneswar, Odisha",
+      "date": ""
+    }
+  ],
+  "achievements": [
+    "Found that a state-government training portal (**Lekha Odia**, lekha.odisha.gov.in) lost its anti-copy/paste test locks on mobile browsers; proved it with an OCR proof-of-concept and **responsibly disclosed** it to **OKCL** with suggested backend fixes."
+  ],
+  "achievements_heading": "Security Research",
+  "highlights": [
+    {
+      "value": "300+",
+      "label": "API routes in Rether",
+      "icon": "server"
+    },
+    {
+      "value": "80k+",
+      "label": "Telegram followers",
+      "icon": "send"
+    },
+    {
+      "value": "24",
+      "label": "languages in Aidora",
+      "icon": "languages"
+    },
+    {
+      "value": "89/100",
+      "label": "Gemini certified score",
+      "icon": "sparkles"
+    },
+    {
+      "value": "34",
+      "label": "docs pages for Rether",
+      "icon": "book"
+    }
+  ],
+  "security_steps": [
+    {
+      "icon": "search",
+      "title": "Found",
+      "text": "Anti-copy/paste test locks lost on mobile browsers"
+    },
+    {
+      "icon": "scan",
+      "title": "Proved",
+      "text": "OCR proof-of-concept"
+    },
+    {
+      "icon": "send",
+      "title": "Disclosed",
+      "text": "Responsibly, to OKCL, with suggested backend fixes"
+    }
+  ],
+  "timeline": []
+}
